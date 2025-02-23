@@ -1,4 +1,4 @@
-# 
+ 
 **Hello! While this site is under construction, you can check out...**
 
 [Convergent Research team profile](https://www.convergentresearch.org/team)
