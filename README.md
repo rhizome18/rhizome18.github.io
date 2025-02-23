@@ -1,5 +1,6 @@
 # 
 Hello! While this site is under construction, you can check out...
+
 [Convergent Research team profile](https://www.convergentresearch.org/team)
 [Scientific publications](https://scholar.google.com/citations?user=X-R_erYAAAAJ&hl=en&oi=ao)
 [PhD Thesis](https://thesis.library.caltech.edu/16494/)
