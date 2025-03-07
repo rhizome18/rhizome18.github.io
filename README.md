@@ -1,9 +1,9 @@
  
-**Hello!**
+**Hello from Pasadena, CA!**
 
-I'm currently a Research Fellow at Convergent Research: [Team profile](https://www.convergentresearch.org/team)
+I'm currently leading a project on molecular measurements in humans as a Research Fellow at Convergent Research: [Team profile](https://www.convergentresearch.org/team)
 
-My prior work has spanned chemical biology, protein engineering, molecular neuroscience, and machine vision for animal behavior:
+My prior work has been in chemical biology, protein engineering, molecular neuroscience, and machine vision for animal behavior:
 [Scientific publications](https://scholar.google.com/citations?user=X-R_erYAAAAJ&hl=en&oi=ao);
 [PhD Thesis](https://thesis.library.caltech.edu/16494/)
 
