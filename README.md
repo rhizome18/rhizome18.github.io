@@ -1,6 +1,8 @@
  
 **Hello from Pasadena, CA!**
 
+I think about life science, biotech, venture, & new scientific institutions. I enjoy all things sport and speed.
+
 I'm currently leading a project on molecular measurements in humans as a Research Fellow at Convergent Research: [Team profile](https://www.convergentresearch.org/team)
 
 My prior work has been in chemical biology, protein engineering, molecular neuroscience, and machine vision for animal behavior:
