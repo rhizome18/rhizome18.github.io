@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My Library</title>
+  <!-- Link to your site's main stylesheet if needed -->
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header>
+    <h1>My Library</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="blog.html">Blog</a></li>
+        <li><a href="my-library.html" class="active">My Library</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section>
+      <h2>Favorite Articles</h2>
+      <p>Below is a collection of articles I find useful or inspiring.</p>
+
+      <!-- Category 1 -->
+      <h3>Technology</h3>
+      <ul>
+        <li>
+          <a href="https://exampletechsite.com/great-article" target="_blank">
+            Great Article on Futuristic Tech
+          </a>  
+          <span>– A brief note or summary about why you like it.</span>
+        </li>
+        <li>
+          <a href="https://anothertechblog.com/ai-innovations" target="_blank">
+            AI Innovations to Watch
+          </a>
+          <span>– Quick summary or highlight of the article.</span>
+        </li>
+      </ul>
+
+      <!-- Category 2 -->
+      <h3>Sustainability</h3>
+      <ul>
+        <li>
+          <a href="https://ecoblog.com/sustainable-living" target="_blank">
+            Sustainable Living Tips
+          </a>
+          <span>– Short blurb about what you learned or found interesting.</span>
+        </li>
+        <li>
+          <a href="https://greenfuture.org/plant-based-materials" target="_blank">
+            Plant-based Materials Changing the World
+          </a>
+        </li>
+      </ul>
+
+      <!-- Add more categories and links as you like -->
+      
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 My Futuristic Site</p>
+  </footer>
+</body>
+</html>
