@@ -5,7 +5,7 @@ I think about life science, biotech, venture capital, & new scientific instituti
 
 I'm currently leading a project on molecular measurements in humans as a Research Fellow at Convergent Research: [Team profile](https://www.convergentresearch.org/team)
 
-I have lived on the three coasts of the U.S.: I was born and raised in Houston, TX, studied at Penn in Philadelphia, PA, worked at Janelia Research Campus in Ashburn, VA, did my PhD at Caltech in Pasadena, CA.
+I have lived on the three coasts of the U.S.: I was born and raised in Houston, TX, studied at Penn in Philadelphia, PA, worked at Janelia Research Campus in Ashburn, VA, and did my PhD at Caltech in Pasadena, CA where I currently reside. I consider myself extremely lucky to have met incredible people in each of these communities who have shaped my path. 
 
 My prior work has been in chemical biology, protein engineering, molecular neuroscience, and machine vision for animal behavior:
 [Scientific publications (Google Scholar)](https://scholar.google.com/citations?user=X-R_erYAAAAJ&hl=en&oi=ao);
