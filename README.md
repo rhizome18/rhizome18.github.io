@@ -1,9 +1,11 @@
  
 **Hello from Pasadena, CA!**
 
-I think about life science, biotech, venture, & new scientific institutions. I enjoy all things sport and speed.
+I think about life science, biotech, venture capital, & new scientific institutions. I enjoy all things sport and speed.
 
 I'm currently leading a project on molecular measurements in humans as a Research Fellow at Convergent Research: [Team profile](https://www.convergentresearch.org/team)
+
+I have lived on the three coasts of the U.S.: I was born and raised in Houston, TX, studied at Penn in Philadelphia, PA, worked at Janelia Research Campus in Ashburn, VA, did my PhD at Caltech in Pasadena, CA.
 
 My prior work has been in chemical biology, protein engineering, molecular neuroscience, and machine vision for animal behavior:
 [Scientific publications (Google Scholar)](https://scholar.google.com/citations?user=X-R_erYAAAAJ&hl=en&oi=ao);
