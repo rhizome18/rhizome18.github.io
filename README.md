@@ -3,23 +3,19 @@
 <head>
     <meta charset="UTF-8">
     <title>Anand Muthusamy</title>
-    <!-- Font Awesome CDN -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <style>
         .social-icons a {
-            color: #1DA1F2; /* Default Blue for Twitter Icon */
             font-size: 24px;
             text-decoration: none;
             margin-right: 10px;
         }
-        .social-icons a:hover {
-            opacity: 0.7;
-        }
+        .social-icons .fa-twitter { color: #1DA1F2; }
         .social-icons .fa-linkedin { color: #0077B5; }
         .social-icons .fa-instagram { color: #E1306C; }
+        .social-icons a:hover { opacity: 0.7; }
     </style>
 </head>
-
 <body>
 
 <h2>Hello from Pasadena, CA!</h2>
@@ -46,7 +42,7 @@
     <a href="https://podcasts.apple.com/us/podcast/83-anand-muthusamy-convergent-research-fellow-on-going/id1505716027?i=1000649828719">Once a Scientist</a>
 </p>
 
-<h3>Pages Under Construction:<h3>
+<h3>Pages Under Construction:</h3>
 <ul>
     <li><a href="my-library.html">My Digital Library</a></li>
 </ul>
@@ -54,16 +50,11 @@
 <h4>If any of this interests you, drop me a line:</h4>
 
 <div class="social-icons">
-    <a href="https://x.com/mu_anand" target="_blank">
-        <i class="fab fa-twitter"></i>
-    </a>
-    <a href="https://www.linkedin.com/in/anand-muthusamy-486a7448/" target="_blank">
-        <i class="fab fa-linkedin"></i>
-    </a>
-    <a href="https://www.instagram.com/anand.muthusamy/" target="_blank">
-        <i class="fab fa-instagram"></i>
-    </a>
+    <a href="https://x.com/mu_anand" target="_blank"><i class="fab fa-twitter"></i></a>
+    <a href="https://www.linkedin.com/in/anand-muthusamy-486a7448/" target="_blank"><i class="fab fa-linkedin"></i></a>
+    <a href="https://www.instagram.com/anand.muthusamy/" target="_blank"><i class="fab fa-instagram"></i></a>
 </div>
+
 
 </body>
 </html>
